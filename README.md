@@ -2,7 +2,7 @@
 Parses your clipboard containing a Copied Slack chat transcript and cleans it up.
 
 ## Installation
-- Download SlackQuoteParse.workflow.zip [(Link here)](https://github.com/Jonchun/SlackQuoteParse/releases/download/1.0/SlackQuoteParse.workflow.zip)
+- Download SlackQuoteParse.workflow.zip [(Link here)](https://github.com/Jonchun/SlackQuoteParse/releases/download/v1.0/SlackQuoteParse.workflow.zip)
 - Extract the .zip file so that you see a .workflow file.
 - Double-click and install it.
 - Go to System Preferences > Keyboard > Shortcuts > Services > General > SlackQuoteParse and set a hotkey. I use Ctrl+Cmd+V.
